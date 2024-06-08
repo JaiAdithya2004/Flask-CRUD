@@ -1,12 +1,16 @@
-Flask CRUD Application
+#Flask CRUD Application
+
+
+
 A simple Flask application demonstrating CRUD operations using SQLite.
 
 Features
-Create new records
-Read existing records
-Update records
-Delete records
+1) Create new records
+2) Read existing records
+3) Update records
+4) Delete records
+
 Technologies
-Python
-Flask
-SQLite
+1) Python
+2) Flask
+3) SQLite
